@@ -1,2 +1,2 @@
 # R-programlama
-R programlama programı içinde yaptığım çalışmaları topladığım repo.
+R programlama dilinde yaptığım çalışmaları topladığım repo.
