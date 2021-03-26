@@ -1,5 +1,6 @@
 # For - Apply - Map 
 
+
 ## For Dongusu
 
 b <- seq(1,10, 1)
