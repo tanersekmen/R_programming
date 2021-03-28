@@ -14,6 +14,7 @@ df %>%
 
 # NOT
 
+
 # df.info() ile esdeger bir yapisi vardir.
 str(df)
 
