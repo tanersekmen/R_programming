@@ -47,6 +47,7 @@ library(ggplot2)
 df <- mpg
 df
 
+
 ## aov icerisine ( ilk_degisken ~ ikinci_degisken, data = verinin ismi)
 aov(df$displ ~ df$cty, data = df )
 
@@ -71,5 +72,5 @@ infer_oneway_anova(df, displ, class)
 ## Squares    DF     Mean Square      F        Sig.  
 #--------------------------------------------------------------------
 ##   Between Groups    223.088     6       37.181       50.863    0.0000 
-## Within Groups     165.826    227       0.731                        
-## Total             388.914    233             
+##   Within Groups     165.826    227       0.731                        
+##   Total             388.914    233             
