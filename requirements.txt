@@ -14,3 +14,5 @@ treemap=2.4-2
 ggpubr=0.4.0
 inferr=0.5.4
 magrittr= 2.0.1
+DMwR=0.4.1
+missForest=4.6-14
